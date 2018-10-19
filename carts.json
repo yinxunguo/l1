@@ -1,0 +1,17 @@
+[
+	{
+		"isSelecred": true,
+		"productCover": "img/timg.jpg",
+		"productName": "诗经",
+		"productInfo": "中国古代诗歌开端，最早的一部诗歌总集",
+		"productPrice": 48,
+		"productCount": 1
+	}, {
+		"isSelecred": true,
+		"productCover": "img/timg (1).jpg",
+		"productName": "论语",
+		"productInfo": "是孔子及其弟子的语录结集",
+		"productPrice": 48,
+		"productCount": 1
+	}
+]
